@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-**nikhilgarware/nikhilgarware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=nikhilgarware&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/nikhilgarware/nikhilgarware?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 
 - 🔭 I’m currently working on React JS || Django || Python || Javascript
 - 🌱 I’m currently learning Django and ReactJs in detail
