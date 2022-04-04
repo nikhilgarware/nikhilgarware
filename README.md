@@ -11,3 +11,5 @@
 ## GitHub Stats
 [![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=nikhilgarware)](https://github.com/nikhilgarware/github-readme-stats)
 
+## Most Used Languages 
+[![Nikhil's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilgarware)](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilgarware)
